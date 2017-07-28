@@ -1,0 +1,27 @@
+.color-picker-component {
+  font-family: helvetica, sans-serif;
+  position: relative;
+
+  .color-container,
+  .color-label {
+    display: inline-block;
+    vertical-align: middle;
+  }
+
+  .color-container {
+    border: solid 1px #000;
+    margin-right: 10px;
+    cursor: pointer;
+  }
+
+  .color-label {
+    outline: none;
+    font-weight: 600;
+    text-transform: uppercase;
+  }
+
+  .color-palette {
+    position: absolute;
+    top: calc(100% + 20px);
+  }
+}

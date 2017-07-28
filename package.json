@@ -1,0 +1,23 @@
+{
+  "name": "stephen-components",
+  "version": "0.0.1",
+  "description": "Shared React Components",
+  "main": "index.js",
+  "author": "Stephen Young <steveyoung359@gmail.com>",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
+  },
+  "dependencies": {
+    "node-sass": "^4.5.3",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-intl": "^2.3.0",
+    "sass-loader": "^6.0.6"
+  },
+  "devDependencies": {
+    "@storybook/react": "^3.1.9"
+  }
+}
