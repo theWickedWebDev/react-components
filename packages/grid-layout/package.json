@@ -1,0 +1,13 @@
+{
+  "name": "grid-layout",
+  "version": "0.0.1",
+  "main": "index.js",
+  "description": "Grid Layout",
+  "author": "Stephen Young",
+  "peerDependencies": {
+    "react": "^15.3.1"
+  },
+  "dependencies": {
+    "react-grid-layout": "^0.14.7"
+  }
+}

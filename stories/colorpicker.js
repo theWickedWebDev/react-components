@@ -52,8 +52,8 @@ storiesOf('Color Picker', module)
     <ColorPicker
       palette={defaultColors}
       options={{
-        size: 60,
-        paletteSize: 30,
+        size: 30,
+        paletteSize: 15,
         cols: 6,
       }}
     />

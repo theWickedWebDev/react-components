@@ -5,7 +5,6 @@
   "description": "Branded Button",
   "author": "Stephen Young",
   "peerDependencies": {
-    "react": "^15.3.1",
-    "react-intl": "^2.3.0"
+    "react": "^15.3.1"
   }
 }
